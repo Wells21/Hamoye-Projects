@@ -1,2 +1,3 @@
 # Hamoye-Projects
-A repository containing the projects I worked on during the Hamoye Internship
+
+This is a portfolio of the projects I worked on and contributed to through collaboration and teamwork during the internship at Homoye.
